@@ -1,0 +1,14 @@
+C:\Users\Kuldip Jasani\Desktop\DotNet\StudentPortal\StudentPortal.Models\bin\Debug\net6.0\StudentPortal.Models.deps.json
+C:\Users\Kuldip Jasani\Desktop\DotNet\StudentPortal\StudentPortal.Models\bin\Debug\net6.0\StudentPortal.Models.runtimeconfig.json
+C:\Users\Kuldip Jasani\Desktop\DotNet\StudentPortal\StudentPortal.Models\bin\Debug\net6.0\StudentPortal.Models.dll
+C:\Users\Kuldip Jasani\Desktop\DotNet\StudentPortal\StudentPortal.Models\bin\Debug\net6.0\StudentPortal.Models.pdb
+C:\Users\Kuldip Jasani\Desktop\DotNet\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\StudentPortal.Models.csproj.AssemblyReference.cache
+C:\Users\Kuldip Jasani\Desktop\DotNet\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\StudentPortal.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuldip Jasani\Desktop\DotNet\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\StudentPortal.Models.AssemblyInfoInputs.cache
+C:\Users\Kuldip Jasani\Desktop\DotNet\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\StudentPortal.Models.AssemblyInfo.cs
+C:\Users\Kuldip Jasani\Desktop\DotNet\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\StudentPortal.Models.csproj.CoreCompileInputs.cache
+C:\Users\Kuldip Jasani\Desktop\DotNet\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\StudentPortal.Models.dll
+C:\Users\Kuldip Jasani\Desktop\DotNet\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\refint\StudentPortal.Models.dll
+C:\Users\Kuldip Jasani\Desktop\DotNet\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\StudentPortal.Models.pdb
+C:\Users\Kuldip Jasani\Desktop\DotNet\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\StudentPortal.Models.genruntimeconfig.cache
+C:\Users\Kuldip Jasani\Desktop\DotNet\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\ref\StudentPortal.Models.dll
